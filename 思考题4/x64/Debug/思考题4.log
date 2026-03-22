@@ -1,0 +1,13 @@
+﻿  思考题4.c
+D:\ Visual Studio\c语言练习\思考题4\思考题4\思考题4.c(23,5): warning C4013: “initCanvas”未定义；假设外部返回 int
+D:\ Visual Studio\c语言练习\思考题4\思考题4\思考题4.c(24,5): warning C4013: “drawSinWave”未定义；假设外部返回 int
+D:\ Visual Studio\c语言练习\思考题4\思考题4\思考题4.c(25,5): warning C4013: “printCanvas”未定义；假设外部返回 int
+D:\ Visual Studio\c语言练习\思考题4\思考题4\思考题4.c(29,5): warning C4013: “addAxisLabels”未定义；假设外部返回 int
+D:\ Visual Studio\c语言练习\思考题4\思考题4\思考题4.c(37,6): error C2371: “initCanvas”: 重定义；不同的基类型
+D:\ Visual Studio\c语言练习\思考题4\思考题4\思考题4.c(57,6): error C2371: “drawSinWave”: 重定义；不同的基类型
+D:\ Visual Studio\c语言练习\思考题4\思考题4\思考题4.c(70,6): error C2371: “addAxisLabels”: 重定义；不同的基类型
+D:\ Visual Studio\c语言练习\思考题4\思考题4\思考题4.c(97,6): error C2371: “printCanvas”: 重定义；不同的基类型
+D:\ Visual Studio\c语言练习\思考题4\思考题4\思考题4.c(106,5): error C2084: 函数“int main()”已有主体
+      D:\ Visual Studio\c语言练习\思考题4\思考题4\思考题4.c(15,5):
+      参见“main”的前一个定义
+  
